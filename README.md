@@ -11,7 +11,7 @@ To be used where there is no better option to turn analog microphone signals int
 A 1-4 MHz Clock signal should be provided for the FAN Chip to produce PDM data. 
 
 ## Connectors
-to be a board that uses MOLEX SL 70555 series connectors (4 pin for PDM side and 2 pin for Electret side) to attach the microphone and board
+MOLEX SL 70555 series connectors (4 pin for PDM side and 2 pin for Electret side) are used for this board, but switching them out for something else is not difficult
 
 ## Schematic
 
