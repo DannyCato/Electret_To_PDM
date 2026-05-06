@@ -1,6 +1,6 @@
 # Electret To PDM
 
-This is a KiCad project that uses a FAN3852 to convert analog electret microphone data to PDM data. It is mounted on a 4-layer PCB, so that a GND plane can be directly below the FAN chip
+This is a KiCad project that uses a FAN3852 to convert analog electret microphone data to PDM data. It is mounted on a 2-layer PCB with all the parts on the top layer
 
 Additionally, it has grounded mounting pads and a power good LED to see if the connection is working.
 
@@ -19,6 +19,6 @@ MOLEX SL 70555 series connectors (4 pin for PDM side and 2 pin for Electret side
 
 ## Layout
 
-There a ground plane on the third layer that runs across the entire board on the third layer, but it was hidden for this image 
+The back layer is almost entire a Ground Plane aside for the few times where wires need to cross over others.
 
 ![Layout Front](images/Layout_Front.png)
